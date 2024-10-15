@@ -1,2 +1,1 @@
 # IntelliLearn
-# NihaKrish
